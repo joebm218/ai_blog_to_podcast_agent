@@ -22,7 +22,7 @@ This is a Streamlit-based application that allows users to convert any blog post
 
     - **Firecrawl API Key**: Get your Firecrawl API key from Firecrawl.
 
-2. **Python 3.8+**: Ensure you have Python 3.8 or higher installed.
+2. **Python 3.8+**: Ensure you have Python 3.8 or higher installed version.
 
 ### Installation
 1. Clone this repository:
